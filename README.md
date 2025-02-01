@@ -11,7 +11,6 @@ Front-End Web Developer
 I'm passionate about Building web projects that live on the internet, using (Reactjs, Nextjs ....)
 
 * 🌍  I'm based in Morocco/Agadir
-* 🖥️  See my portfolio at [https://oussamadev.vercel.app/](https://oussamadev.vercel.app/)
 * ✉️  You can contact me at [www.linkedin.com/in/ossama-zaoute-ab8a50185](mailto:www.linkedin.com/in/ossama-zaoute-ab8a50185)
 * 🧠  I'm learning BackEnd Dev
 * 🤝  I'm open to collaborating on Interesting web projects
